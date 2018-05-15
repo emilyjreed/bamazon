@@ -1,4 +1,7 @@
 # bamazon
+
+bamazon is an Amazon-like storefront that uses the MYSQL database. The app takes in orders from customers and depletes stock from the store's inventory updating the database as it goes. Customers cannot order more than what is in stock, and will be shown a grand total of their purchase.
+
 ## Installation
 **NOTE**: requires a running mysql server
 ```
